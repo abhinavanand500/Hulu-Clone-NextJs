@@ -10,7 +10,7 @@ API used: https://api.themoviedb.org/
 
 Setup:
 
--   run `npm i && npm start`
+-   run `npm i && npm run dev`
 
 ## ABOUT DEPLOYMENT
 
